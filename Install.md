@@ -4,11 +4,13 @@ After downloading both Ubuntu 24.04 LTS ISO (at the time of making this) and Vir
 Here below is what will show up when you drag and drop or add the ISO to your virtual box (except the name is whatever you would like it be here i chose 'Ubuntu-24.04-LTS)
 
 
-[Ubuntu](https://github.com/user-attachments/assets/8199d269-480c-4144-bddd-5c8aa808b453)
+![Ubuntu](https://github.com/user-attachments/assets/c9bdfa88-efc0-4015-99da-05a663b2d633)
+
 
 After clicking next I you can assign the base memory and processors you want for this Virtual Machine. 
 
-[Ubuntu2](https://github.com/user-attachments/assets/8d4ec3ae-d93e-4c90-a8e4-40e32b157e8d)
+![Ubuntu2](https://github.com/user-attachments/assets/9f65bf68-8d05-4b81-8faf-76f80be19613)
+
 
 Hitting next one more time sends you this page where you now assign the size of the disk for the machine.  I will keep this image at the default disk size.
 
